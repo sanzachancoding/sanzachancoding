@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanzachancoding
 - 👀 I’m interested in web designing , cyber security , graphics designing
 - 🌱 I’m currently learning Java and building exciting projects
-- 💞️ Exploring vreative solutions in programming and design
+- 💞️ Exploring creative solutions in programming and design
 - 🚀 Aspiring to create impactful digital experiences. 
 - 😄 Pronouns: She/Her
 - 📫 Let's connect: junainahalamsanza@gmail.com
