@@ -4,7 +4,7 @@
 - 💞️ Exploring creative solutions in programming and design
 - 🚀 Aspiring to create impactful digital experiences. 
 - 😄 Pronouns: She/Her
-- 📫 Let's connect: junainahalamsanza@gmail.com
+- 📫 Let's connect: junainahalamsanza@gmail.com or junainah.alam.sanza@g.bracu.ac.bd
 
 <!---
 sanzachancoding/sanzachancoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
